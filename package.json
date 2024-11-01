@@ -13,10 +13,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.7",
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.5",
-    "express": "^4.21.0",
-    "nodemon": "^3.1.7"
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "teste_ts_api": "file:"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
